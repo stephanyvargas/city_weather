@@ -22,4 +22,4 @@ def try_me(city=' '):
     print('Temperature:', weather+"°C")
     print('Rainy (%):', rain_percent)
     print('Humidity:', humidity)
-    print('Wind speed:' wind_speed)
+    print('Wind speed:', wind_speed)
